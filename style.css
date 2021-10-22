@@ -1,0 +1,32 @@
+#whatev{
+    height: 30%;
+    background: linear-gradient(rgb(231, 28, 231), aqua);
+    font-size: 150px;
+}
+#math_symbols{    
+    height: 70%;
+    width: 50%;
+    z-index:-99999999;
+    position: absolute;
+}
+
+#namezone{
+    margin-bottom: 70%;
+    z-index: 9999999;
+    background: rgb(100, 197, 241);
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    width: 800px;
+    height: 552px;
+}
+#Game_start{
+    width: 50%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 50px;
+}
+input{
+    width: 25%;
+    border-radius: 10px;
+    margin-bottom:30px ;
+}
