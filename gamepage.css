@@ -1,8 +1,8 @@
 #output{
-    background: rgb(0, 119, 255);
+    background: rgb(144, 186, 235);
     border-radius:10px;
     border-top: 10px solid #AA4465;
-    border-bottom: seagreen;
+    border-bottom: 10px seagreen;
     padding: 10px;
     float: none;
     text-align: left;
@@ -18,4 +18,11 @@ button{
 }
 body{
     background: linear-gradient(rgb(252, 15, 192),rgb(11, 84, 254)) ;
+}
+#question_turn,#answer_turn{
+    font-size: 20px;
+}
+#player1_name, #player2_name{
+    margin-left: 20px;
+    display: inline-block;
 }
